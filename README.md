@@ -1,6 +1,9 @@
 # LiyuCoffee Website
 
 Welcome to the **LiyuCoffee** website repository! This project is a web platform for LiyuCoffee, showcasing its products, services, and company information. The website offers an easy-to-navigate interface for customers to explore the coffee products and learn more about the brand.
+## Live Preview
+
+Check out the live website here: [LiyuCoffee Website](https://liyu-coffee.vercel.app)
 
 ## Features
 
